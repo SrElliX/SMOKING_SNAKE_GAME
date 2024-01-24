@@ -11,7 +11,7 @@ This is a simple Snake game created with Python using the Pygame library. The ga
 * Game Over: Receive a fun reward when reaching a score of 50.
 
 ## How to Play
-1. Run the Python script (snake_game.py).
+1. Run the Python script (snake.py).
 2. Control the snake with arrow keys.
 3. Eat apples to increase your score.
 4. Avoid collisions with the purple snake and the game boundaries.
@@ -24,8 +24,7 @@ pip install pygame
 
 Clone the repository and run the game:
 
-
-python snake_game.py
+python snake.py
 
 ## Acknowledgments
 * Background music: back1.mp3
